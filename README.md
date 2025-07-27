@@ -46,6 +46,4 @@ npm run dev
 🧑‍💻 GitHub
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b30f2379-ac4e-4ca0-be3c-ea5aa7e6596f" />
-
 
