@@ -39,9 +39,13 @@ PORT=8000
 MONGO_URL=your_mongo_db_uri
 JWT_SECRET=your_secret_key
 npm run dev
-
+---
 🤝 Connect With Me
 💼 LinkedIn
 
 🧑‍💻 GitHub
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b30f2379-ac4e-4ca0-be3c-ea5aa7e6596f" />
+
 
