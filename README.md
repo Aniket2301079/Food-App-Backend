@@ -41,28 +41,5 @@ JWT_SECRET=your_secret_key
 npm run dev
 ---
 🤝 Connect With Me
-💼 LinkedIn
-
-🧑‍💻 GitHub
-
-
-
-## 📸 Screenshots
-
-### Postman – Register API
-![Register API](./assets/screenshots/postman-register.png)
-
-### Postman – Login API
-![Login API](./assets/screenshots/postman-login.png)
-
-### MongoDB Compass – Users Collection
-![Users Collection](./assets/screenshots/mongo-users.png)
-
-### MongoDB Compass – Restaurants Collection
-![Restaurants Collection](./assets/screenshots/mongo-restaurants.png)
-
-### VS Code – server.js
-![server.js](./assets/screenshots/vscode-server.png)
-
-### VS Code – authController.js
-![authController.js](./assets/screenshots/vscode-auth-controller.png)
+💼 LinkedIn :- www.linkedin.com/in/aniket2301079
+🧑‍💻 GitHub :- https://github.com/Aniket2301079
